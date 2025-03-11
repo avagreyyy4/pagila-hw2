@@ -1,3 +1,5 @@
+![Workflow Status](https://github.com/avagreyyy4/pagile-hw2/actions/workflows/YOUR_WORKFLOW_FILE.yml/badge.svg)
+
 # pagila-hw2
 
 This is the second SQL homework in CMC's CSCI143: Big Data class.
