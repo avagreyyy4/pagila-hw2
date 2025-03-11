@@ -21,4 +21,5 @@ FROM (
     JOIN payment p USING (rental_id)
     GROUP BY special_feature
 ) AS t  -- ✅ Added alias for the subquery
-GROUP BY special_feature, profit;
+GROUP BY special_feature, profit
+order by special_feature;
