@@ -1,5 +1,5 @@
 # pagila-hw2
-[![Tests](https://github.com/avagreyyy4/pagila-hw2/actions/workflows/tests.yml/badge.svg)](https://github.com/avagreyyy4/pagila-hw2/actions)
+[![](https://github.com/avagreyyy4/pagila-hw2/actions/workflows/tests.yml/badge.svg)](https://github.com/avagreyyy4/pagila-hw2/actions/workflows/tests.yml)
 
 
 
