@@ -1,4 +1,4 @@
-![Workflow Status](https://github.com/avagreyyy4/pagile-hw2/actions/workflows/YOUR_WORKFLOW_FILE.yml/badge.svg)
+[![](https://github.com/avagreyyy4/pagila-hw2/workflows/tests/badge.svg)](https://github.com/avagreyyy4/pagila-hw2/actions?query=workflow%3Atests)
 
 # pagila-hw2
 
