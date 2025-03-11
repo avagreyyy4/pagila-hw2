@@ -15,5 +15,6 @@ WHERE first_name || ' ' || last_name IN (
         WHERE feature = 'Trailers'  -- Filtering only for 'Trailers' special feature
     )
 )
-group by "Actor Name";
+group by "Actor Name"
+order by "Actor Name";
 
