@@ -1,6 +1,6 @@
-[![](https://github.com/avagreyyy4/pagila-hw2/workflows/tests/badge.svg)](https://github.com/avagreyyy4/pagila-hw2/actions?query=workflow%3Atests)
-
 # pagila-hw2
+[![Tests](https://github.com/avagreyyy4/pagila-hw2/actions/workflows/test.yml/badge.svg)](https://github.com/avagreyyy4/pagila-hw2/actions)
+
 
 This is the second SQL homework in CMC's CSCI143: Big Data class.
 
